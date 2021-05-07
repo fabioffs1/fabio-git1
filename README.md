@@ -44,5 +44,7 @@ Se possível, forneça as informações para diferentes plataformas, por exemplo
 ## Meta
 
 Seu nome - [@seutwitter](https://www.twitter.com/seuTwitter) - seuemail@email.com
+
 Distribuído sobre a licença. Veja `LICENÇA` para mais informações.
+
 [https://github.com/seuusuario/seuprojeto](https://github.com/seuusuario)
